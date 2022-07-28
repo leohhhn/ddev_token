@@ -1,0 +1,12 @@
+hardhat/node_modules
+hardhat/.env
+hardhat/coverage
+hardhat/coverage.json
+hardhat/typechain
+.idea
+hardhat/typechain-types
+
+#Hardhat files
+hardhat/cache
+hardhat/artifacts
+
